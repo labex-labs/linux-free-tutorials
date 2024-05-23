@@ -6,8 +6,8 @@
 
 Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
 
-|   Index | Name                                                 | Difficulty   | Tutorial                                                                                             |
-|---------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                | Difficulty   | Tutorial                                                                                            |
+|---------|-----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
 |     001 | 📖 Your First Linux Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-linux-lab-270253)                           |
 |     002 | 📖 Basic Files Operations                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/basic-files-operations-270248)                         |
 |     003 | 📖 Create Directory and Print Path                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/create-directory-and-print-path-270249)                |
@@ -257,7 +257,8 @@ Linux is one of the most popular operating systems in the world. It is used in e
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
